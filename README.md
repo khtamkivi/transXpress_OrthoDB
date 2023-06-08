@@ -17,6 +17,6 @@ The linking of OrthoDB data with the existing transXpress pipeline happens after
 ![transXpress](figures/fig2_1.png)
 
 ## References
-[1]	R. Stark, M. Grzelak, and J. Hadfield, “RNA sequencing: the teenage years,” Nat Rev Genet, vol. 20, no. 11, Art. no. 11, Nov. 2019, doi: 10.1038/s41576-019-0150-2.T. R. Fallon, T. Čalounová, M. Mokrejš, J.-K. Weng, and T. Pluskal, “transXpress: a Snakemake pipeline for streamlined de novo transcriptome assembly and annotation,” BMC Bioinformatics, vol. 24, no. 1, p. 133, Apr. 2023, doi: 10.1186/s12859-023-05254-8.
-[2]	A. M. S. Shrestha, J. E. B. Guiao, and K. C. R. Santiago, “Assembly-free rapid differential gene expression analysis in non-model organisms using DNA-protein alignment,” BMC Genomics, vol. 23, no. 1, p. 97, Feb. 2022, doi: 10.1186/s12864-021-08278-7.
-[3]	R. Avila, “E-values and Bit-scores in BLAST,” 2021. https://ravilabio.info/notes/bioinformatics/e-value-bitscore.html (accessed Jun. 02, 2023).
+1.	R. Stark, M. Grzelak, and J. Hadfield, “RNA sequencing: the teenage years,” Nat Rev Genet, vol. 20, no. 11, Art. no. 11, Nov. 2019, doi: 10.1038/s41576-019-0150-2.T. R. Fallon, T. Čalounová, M. Mokrejš, J.-K. Weng, and T. Pluskal, “transXpress: a Snakemake pipeline for streamlined de novo transcriptome assembly and annotation,” BMC Bioinformatics, vol. 24, no. 1, p. 133, Apr. 2023, doi: 10.1186/s12859-023-05254-8.
+2.	A. M. S. Shrestha, J. E. B. Guiao, and K. C. R. Santiago, “Assembly-free rapid differential gene expression analysis in non-model organisms using DNA-protein alignment,” BMC Genomics, vol. 23, no. 1, p. 97, Feb. 2022, doi: 10.1186/s12864-021-08278-7.
+3.	R. Avila, “E-values and Bit-scores in BLAST,” 2021. https://ravilabio.info/notes/bioinformatics/e-value-bitscore.html (accessed Jun. 02, 2023).
